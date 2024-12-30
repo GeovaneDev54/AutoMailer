@@ -65,6 +65,12 @@ To build a standalone executable for Windows using PyInstaller, follow these ste
 
 3. **Find your executable** in the `dist` directory.
 
+### Download
+You can download the precompiled versions of AutoMailer for different platforms:
+
+- [AutoMailer for Windows](https://github.com/GeovaneDev54/AutoMailer/raw/main/AutoMailer_Windows.zip)
+- [AutoMailer for Linux](https://github.com/GeovaneDev54/AutoMailer/raw/main/AutoMailer_Linux.zip)
+
 ## Contributing
 Contributions are welcome! Please create an issue or submit a pull request with your improvements or bug fixes.
 
