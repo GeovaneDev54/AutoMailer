@@ -13,20 +13,20 @@
 
 ## Technologies Used
 - **Python**
-- **FreeSimpleGUI** (or another GUI library you're using)
-- **PyInstaller**
-- **APIs** for random dog pictures
+- **[PySimpleGUI](https://pysimplegui.readthedocs.io/)** (or another GUI library you're using)
+- **[PyInstaller](https://www.pyinstaller.org/)**
+- **[Dog API](https://thedogapi.com/)**
 - **sched** and **threading** for task scheduling
 
 ## Getting Started
 ### Prerequisites
 - **Python 3.12+**
-- Required libraries: `sched`, `threading`, `requests`, `json`, `os`, `sys`, `logging`, `FreeSimpleGUI` (or similar)
+- Required libraries: `sched`, `threading`, `requests`, `json`, `os`, `sys`, `logging`, `PySimpleGUI`
 
 ### Installation
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/AutoMailer.git
+    git clone https://github.com/GeovaneDev54/AutoMailer.git
     cd AutoMailer
     ```
 
@@ -72,7 +72,7 @@ Contributions are welcome! Please create an issue or submit a pull request with 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
-- Thanks to the creators of [FreeSimpleGUI](https://pysimplegui.readthedocs.io/) for their excellent library.
+- Thanks to the creators of [PySimpleGUI](https://pysimplegui.readthedocs.io/) for their excellent library.
 - Special thanks to [Dog API](https://thedogapi.com/) for providing adorable dog pictures.
 
 ---
